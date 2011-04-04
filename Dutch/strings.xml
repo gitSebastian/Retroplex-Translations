@@ -14,7 +14,7 @@ Om er zeker van te zijn dat je altijd de meest recente versie gebruikt, gebruik 
 http://www.anomiesoftware.com/Anomie_Software/Preen.html[CR][CR][COLOR=ivory2]Hartelijk dank[/COLOR] dat Retroplex jouw goedkeuring weg kan dragen.[CR][CR][CR][CR]
 Extra dank aan :[CR][CR]
 Een extra dankwoord voor [COLOR=ivory2]gedoode[/COLOR] voor alle media gerelateerde symbolen die hij gemaakt heeft.[CR][CR]
-Een extra dankwoord voor [COLOR=ivory2]scottu[/COLOR] voor het uitmuntende retro-licious opstart geluid.[CR][CR]
+Een extra dankwoord voor [COLOR=ivory2]scottu[/COLOR] voor het uitmuntende retro-licious opstartgeluid.[CR][CR]
 Zonder jullie zou Retroplex nu niet zijn wat het is. Bedankt!
 	</string>
 	<!-- Settings Home -->
@@ -41,7 +41,7 @@ Zonder jullie zou Retroplex nu niet zijn wat het is. Bedankt!
 	<string id="41017">Fanart gebruiken tijdens Muziekvisualisaties</string>
 	<string id="41018">Meng Muziekvisualisaties en Fanart</string>
 	<!-- Settings Views -->
-	<string id="31015">Instelligen</string><!-- -->
+	<string id="31015">Instellingen</string><!-- -->
 	<string id="31097">Gebruik scrollbalk</string><!-- -->
 	<string id="31055">Verberg scrollbalk tot focus</string><!-- -->
 	<string id="31035">Virtueel toetsenbord gebruiken</string><!-- -->
@@ -51,7 +51,7 @@ Zonder jullie zou Retroplex nu niet zijn wat het is. Bedankt!
 	<string id="41022">HD Icoon : toon voor alle films</string>
 	<string id="41023">HD Icoon : alleen voor geselecteerd item</string>
 	<string id="41024">Waardering in getallen weergeven in plaats van sterren</string>
-	<string id="41025">Toon de letter uit het alfabet bij snel scrollen in de weergave</string>
+	<string id="41025">Toon de letter uit het alfabet bij snel scrollen</string>
 	<!-- Settings Music Visualizer and Sounds -->
 	<string id="41026">Geluid en muziekvisualisaties</string>
 	<string id="41027">Toon Retroplex Slideshow in "Nu afspelen" scherm</string>
@@ -78,13 +78,13 @@ Bedankt.
 Welkom bij Retroplex![CR][CR]
 Mijn naam is Natalie en ik maak je wegwijs.[CR]
 Het is heel makkelijk, bekijk even alle tips.[CR][CR]
-Klik opnieuw op "Retroplex Help om terug te keren.
+Klik opnieuw op "Retroplex Help" om het uit te schakelen.
 	</string>
 	<string id="41935">
 1. Dit is het hoofdmenu. Het is vrij leeg in het begin, maar je kunt zelf volledig aanpassen wat je wil weergeven in de skin Instellingen. Na 30 seconden inactiviteit zal het verdwijnen, maar je hoeft maar met de muis te bewegen om het weer tot leven te wekken!
 	</string>
 	<string id="41936">
-2. Er is een extra menu beschikbaar in Retroplex, dat te bereiken is door de knop "links" te gebruiken. Hier vind je context afhankelijke opties en een snelkoppeling naar de instellingen.[CR][CR]
+2. Er is een extra menu beschikbaar in Retroplex, dat te bereiken is door de cursorknop "links" te gebruiken. Hier vind je contextafhankelijke opties en een snelkoppeling naar de instellingen.[CR][CR]
 Probeer het maar!
 	</string>
 	<string id="41937">
@@ -144,12 +144,12 @@ Veel plezier!
 	<string id="31021">Profielen</string>
 	<string id="31022">Weergaves</string>
 	<string id="31023">TV Shows</string>
-	<string id="31024">Musiek Videos</string>
-	<string id="31025">Display Media Overlays</string>
+	<string id="31024">Muziek Videos</string>
+	<string id="31025">Toon Media Overlays</string>
 	<string id="31026">Inlogscherm gebruiken</string>
 	<string id="31027">Toon partymodus</string>
-	<string id="31028">Toon huidige video in de Achtergrond</string>
-	<string id="31029">Toon visualisatie in de Achtergrond</string>
+	<string id="31028">Toon huidige video op de Achtergrond</string>
+	<string id="31029">Toon visualisatie op de Achtergrond</string>
 	<string id="31030">Toon Artiesten</string>
 	<string id="31031">Toon Genres</string>
 	<string id="31032">Toon Afspeellijsten</string>
@@ -174,7 +174,7 @@ Veel plezier!
 	<string id="31052">Trailers</string>
 	<string id="31053">Bekijk Trailer</string>
 	<string id="31054">Poster</string>
-	<string id="31057">Gebruik volledig scherm voor afbeelding weergave</string>
+	<string id="31057">Gebruik volledig scherm voor afbeeldingsweergave</string>
 	<string id="31058">Volledig Scherm</string>
 	<string id="31059">Terug</string>
 	<string id="31060">Selecteer Zoekmachine</string>
@@ -226,7 +226,7 @@ Veel plezier!
 	<string id="31108">Of</string>
 	<string id="31109">Later</string>
 	<string id="31110">$INFO[ListItem.TVShowTitle,,: ]$INFO[ListItem.Season,$LOCALIZE[20373] , -] $INFO[ListItem.Episode,$LOCALIZE[20359] ]</string>
-	<string id="31111">PLaylist Opties</string>
+	<string id="31111">Playlist Opties</string>
 	<string id="31112">Plot weergeven in Lijstweergave</string>
 	<string id="31113">Shuffle: Uit</string>
 	<string id="31114">Shuffle: Aan</string>
@@ -236,7 +236,7 @@ Veel plezier!
 	<string id="31121">Repositories</string>
 	<string id="31122">Plugin</string>
 	<string id="31123">Output</string>
-	<string id="31125">Open instellingen schem in plaats van menu</string>
+	<string id="31125">Open instellingenscherm in plaats van menu</string>
 	<string id="31126">Versie</string>
 	<string id="31127">Met</string>
 	<string id="31127">Min</string>
@@ -264,7 +264,7 @@ Veel plezier!
 	<string id="31924">Toon Onbekeken Icoon voor afleveringen</string>
 	<string id="31925">[COLOR=Color2]New[/COLOR] Episodes</string>
 	<string id="31926">[COLOR=Color2]New[/COLOR] Movies</string>
-	<string id="31927">Enable Timer Options in Shutdown Menu</string>
+	<string id="31927">Schakel Timer Opties in Afsluitmenu in</string>
 	<string id="31928">[COLOR=Color2]$LOCALIZE[157][/COLOR] Plugins</string>
 	<string id="31929">Alternate Global Fanart Overlay</string>
 	<string id="31930">Choose Viewtype</string>
@@ -281,7 +281,7 @@ Veel plezier!
 	<string id="31942">[COLOR=Color2]$LOCALIZE[2][/COLOR] Plugins</string>
 	<string id="31943">Shows</string>
 	<string id="31944">Items</string>
-	<string id="31945">Videos</string>
+	<string id="31945">Video's</string>
 	<string id="31946">Muziek</string>
 	<string id="31947">Toon "Nu afspelen"</string>
 	<string id="31948">Informatie</string>
@@ -321,7 +321,7 @@ Veel plezier!
 	<string id="31984">Media Server</string>
 	<string id="31985">Energie besparen</string>
 	<string id="31986">Fanart</string>
-	<string id="31987">Use Time Sensitive Slideshow</string>
+	<string id="31987">Gebruik Tijdgevoelige Slideshow</string>
 	<string id="3300">Stil</string>
 	<string id="33006">Vandaag</string>
 	<string id="33020">Voorwaarde</string>
