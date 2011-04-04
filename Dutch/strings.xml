@@ -81,7 +81,7 @@ Het is heel makkelijk, bekijk even alle tips.[CR][CR]
 Klik opnieuw op "Retroplex Help" om het uit te schakelen.
 	</string>
 	<string id="41935">
-1. Dit is het hoofdmenu. Het is vrij leeg in het begin, maar je kunt zelf volledig aanpassen wat je wil weergeven in de skin Instellingen. Na 30 seconden inactiviteit zal het verdwijnen, maar je hoeft maar met de muis te bewegen om het weer tot leven te wekken!
+1. Dit is het hoofdmenu. Het is vrij leeg in het begin, maar je kunt zelf volledig aanpassen wat je wilt weergeven in de skin Instellingen. Na 30 seconden inactiviteit zal het verdwijnen, maar je hoeft maar met de muis te bewegen om het weer tot leven te wekken!
 	</string>
 	<string id="41936">
 2. Er is een extra menu beschikbaar in Retroplex, dat te bereiken is door de cursorknop "links" te gebruiken. Hier vind je contextafhankelijke opties en een snelkoppeling naar de instellingen.[CR][CR]
@@ -90,7 +90,7 @@ Probeer het maar!
 	<string id="41937">
 3. Dit is het extra menu.[CR][CR]
 Hier vind je onderdelen die verborgen zijn in het hoofdmenu en specifieke opties voor de huidige schermweergave. Het werkt in ieder scherm hetzelfde.[CR][CR]
-Omdat je nu in het Hoofdmenu bent, vind je een aantal specifieke opties, waaronder een uitmuntende Retroplex slideshow, die je mee terugneemt in de gouden tijden van de film. Probeer het zometeen zeker even uit![CR][CR]
+Omdat je nu in het Hoofdmenu bent, vind je een aantal specifieke opties, waaronder een uitmuntende Retroplex slideshow die je mee terugneemt in de gouden tijden van de film. Probeer het zometeen zeker even uit![CR][CR]
 Dat is het belangrijkste wat je moet weten om met Retroplex overweg te kunnen! Makkelijk toch?[CR][CR]
 Veel plezier!
 	</string>
@@ -156,7 +156,7 @@ Veel plezier!
 	<string id="31033">Visuele Instellingen</string>
 	<string id="31034">Toon recent toegevoegde en afgespeelde Albums</string>
 	<string id="31036">Waardering</string>
-	<string id="31037">Eerste letter van het alfabet weergeven tijdens scrollen</string>
+	<string id="31037">Eerste letter weergeven tijdens scrollen</string>
 	<string id="31038">Toon recent toegevoegde en afgespeelde Video's</string>
 	<string id="31039">Gebruik Fanart</string>
 	<string id="31040">PAUZE</string>
@@ -294,7 +294,7 @@ Veel plezier!
 	<string id="31955">Toon extra's</string>
 	<string id="31956">Toon Applicaties in Hoofdmenu</string>
 	<string id="31957">Toon Weer in Hoofdmenu</string>
-	<string id="31958">Toon Afsluit Opties</string>
+	<string id="31958">Toon Afsluitopties</string>
 	<string id="31959">Toon Favorieten in Hoofdmenu</string>
 	<string id="31960">Toon Scripts In Hoofdmenu</string>
 	<string id="31962">Video Menu</string>
