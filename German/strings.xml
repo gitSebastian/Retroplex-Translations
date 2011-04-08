@@ -105,6 +105,12 @@ Enjoy the experience.
     <string id="41945">Ruhezustand</string>
     <string id="41946">Plex beenden</string>
     <string id="41947">Suche</string>
+	<!-- Home menu -->
+	<string id="41980">Playlist Now Playing</string>
+	<string id="41981">Plugins Video</string>
+	<string id="41982">Plugins Music</string>
+	<string id="41983">Plugins Picture</string>
+	<string id="41984">iTunes</string>
     <!-- Video views left-side menu -->
     <string id="41948">Ansicht :</string>
     <string id="31003">Slide</string>
