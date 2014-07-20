@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- RETROPLEX SPECIFIC STRINGS -->
+	<!-- SETTINGS -->
+	<!-- Settings Credits -->
+	<string id="31909">About</string>
+	<!-- !!! NOTE : please be careful about the total length of the translation, the "box" is not dynamic
+	 				and ideally a wording is found that maintains its visual aspect to how it appears in english -->
+	<string id="41000">
+[COLOR=ivory2]Retroplex[/COLOR] is designed, coded and maintained by [COLOR=ivory2]Sebastian[/COLOR] (se.bastian).[CR][CR]
+Please come and discuss it in the Plex community Forums, in the skins section.[CR]
+There you can also follow the latest updates and news, get help and submit suggestions.[CR][CR]
+To ensure you're always having the latest version, please use [COLOR=ivory2]Preen[/COLOR] for updating :[CR]
+http://www.anomiesoftware.com/Anomie_Software/Preen.html[CR][CR][COLOR=ivory2]Thank YOU[/COLOR] for considering Retroplex to be worthy of your delicate eyes.[CR][CR][CR][CR]
+Additional credits :[CR][CR]
+A huge thanks to [COLOR=ivory2]gedoode[/COLOR] for all the wonderful media flags that he has made and donated to Retroplex.[CR][CR]
+A huge thanks to [COLOR=ivory2]scottu[/COLOR] who made and donated the amazing retro-licious startup sound.[CR][CR]
+Without you guys Retroplex just wouldn't be the same. Thanks.
+	</string>
+	<!-- Settings Home -->
+	<string id="31124">Startskræm</string><!-- -->
+	<string id="41001">Vis bejr pin-up</string>
+	<string id="41002">Vis RSS feed</string>
+	<string id="41003">Slå alle DIAS-shows FRA</string>
+	<string id="41004">Skjul Retroplex logo</string>
+	<!-- Settings Home Main Menu -->
+	<string id="31961">Hovedmenu</string><!-- -->
+	<string id="41006">Vis "Søg" i hovedmenu</string>
+	<string id="41007">Vis "Plex Online" i hovedmenu</string>
+	<string id="41008">Vis "iTunes" i hovedmenu</string>
+	<string id="41009">Vis "favoritter" i hovedmenu</string>
+	<string id="41010">Vis "Video Plugins" i hovedmenu</string>
+	<string id="41011">Vis "Musik Plugins" i hovedmenu</string>
+	<string id="41012">Vis "Billed Plugins" i hovedmenu</string>
+	<string id="41013">Vis "Programmer" i hovedmenu</string>
+	<string id="41014">Vis "Vejr" i hovedmenu</string>
+	<string id="41015">Vis "Retroplex Hjælp" i hovedmenu</string>
+	<!-- Settings Fanart -->
+	<string id="41931">Fankunst</string>
+	<string id="41016">Slå fankunst FRA i biblioteksvisning</string>
+	<string id="41017">Brug fankunst på Musik Visualisation Skærm</string>
+	<string id="41018">Bland Musik Visualisation og fankunst</string>
+	<!-- Settings Views -->
+	<string id="31015">Se indstillinger</string><!-- -->
+	<string id="31097">Brug Elevatorbjælker</string><!-- -->
+	<string id="31055">Skjul Elevatorbjælker indtil fokuseret</string><!-- -->
+	<string id="31035">Aktiver virtuelt tastatur</string><!-- -->
+	<string id="41019">Uset ikon : vis for film</string>
+	<string id="41020">Uset ikon : vis for TV Shows og sæssoner</string>
+	<string id="41021">Uset ikon : vis for TV Show Episoder</string>
+	<string id="41022">HD ikon : vis for alle film</string>
+	<string id="41023">HD ikon : vis kun for fokuserede ting</string>
+	<string id="41024">Vis vurdering som til i stedet for stjerner</string>
+	<string id="41025">Vis "Første bogstav Offset" mens der hurtigspoles i biblioteket</string>
+	<!-- Settings Music Visualizer and Sounds -->
+	<string id="41026">Musik Visualizer og Lyde</string>
+	<string id="41027">Vis Retroplex DIAS-Show på "Spiller nu" skærm</string>
+	<string id="41959">Vælg det eget DIAS-show på "Spiller nu" skærm</string>
+	<string id="41028">Skjul Retroplex logo på "Spiller nu" skærm</string>
+	<string id="41029">Slå start vindue FRA (når Plex starter)</string>
+	<!-- Settings Categories window -->
+	<!-- !!! NOTE : please be careful about the total length of the translation, the "box" is not dynamic
+	 				and ideally a wording is found that maintains its visual aspect to how it appears in english -->
+		<string id="41030">
+Hej, Retroplex indstillinger er kommandobroen til skin'et.[CR][CR]
+Her kan du tilpasse alt efter dit ønske, og også justere Plex's indstillinger.[CR][CR]
+Vælg en af grundmenuerne her til højre.[CR][CR]
+Kontakt Barbara i Vores helpdesk hvis du oplever problemer.[CR][CR]
+Thank you.
+	</string>
+	<string id="41932">Færdig</string>
+	<string id="41933">Forlad indstillinger</string>
+	<!-- HOME -->
+	<!-- Home window Help -->
+	<!-- !!! NOTE : please be careful about the total length of each translation, the "bubbles" are not dynamic
+	 				and ideally a wording is found that maintains their visual aspect to how it appears in english -->
+	<string id="41934">
+Hej og velkommen til Retroplex![CR][CR]
+Mit navn er Natalie, jeg er her fot at guide dig.[CR]
+Det er ganske enkelt, læs tips'ne'.[CR][CR]
+For at forlade hjælp, klik "Retroplex hjælpp" igen.
+	</string>
+	<string id="41935">
+1. Dette er hovedmenuen. Den er ret tom til at starte med, Men du kan tilpasse hvad der skal vises her i skin'ets indstillinger. Det blænder automatisk ned til usynlig efter 30 sekunders inaktivitet, og kommer tilbage til live når du foretager dig noget, så ingen panik.
+	</string>
+	<string id="41936">
+2. Der er en alternativ menu tilgængelig i Retroplex, som du altid kan tilgå ved at trykke "venstre". Her finder du yderligere muligheder og har adgang til f.eks. indstillinger.[CR][CR]
+Go ahead, try it.
+	</string>
+		<string id="41937">
+3. Dette er den alternative menu.[CR][CR]
+Her har du adgang til de sektioner der ikke er synlige i hovedmenuen, samt specifikke valgmuligheder for det vindue du står i lige nnu. Det fungerer på samme måde over det hele.[CR][CR]
+Da du står på hjem, var du et par specifikke valg omkring hjemmeskærmen, hvor det fantastiske Retroplex DIAS-Show vil tage dig tilbage til biografernes gyldne dage. Du skulle prøve det når du er færdig her.[CR][CR]
+Og det er alt du behøver for fuldt ud at mestre Retroplex. Simpelt, ikke?[CR][CR]
+God fornøjelse.
+	</string>
+	<!-- Home main menu -->
+	<string id="41938">Natalie - Retroplex hjælp</string>
+	<!-- Home left-side menu -->
+	<string id="41939">Mere :</string>
+	<string id="41940">Hjem :</string>
+	<string id="41941">Slå Retroplex DIAS-Show TIL</string>
+	<string id="41942">Vælg dit eget DIAS-Show</string>
+	<string id="41943">System :</string>
+	<string id="41944">Luk ned</string>
+	<string id="41945">Vågeblus</string>
+	<string id="41946">Afslut Plex</string>
+	<string id="41947">Søg</string>
+	<!-- Home menu -->
+	<string id="41980">Spilleliste spiller nu</string>
+	<string id="41981">Plugins Video</string>
+	<string id="41982">Plugins Musik</string>
+	<string id="41983">Plugins Billeder</string>
+	<string id="41984">iTunes</string>
+	<!-- Video views left-side menu -->
+	<string id="41948">Se :</string>
+	<string id="31003">DIAS</string>
+	<string id="41949">Stort miniature</string>
+	<string id="41950">Lille miniature</string>
+	<string id="31093">Bannere</string>
+	<string id="41951">Multi Bannere</string>
+	<string id="41952">Skjul TV bedømmelse</string>
+	<string id="41953">Skjul Film bedømmelse</string>
+	<string id="41954">Skjul Media Flag</string>
+	<string id="41955">Skjul studie logo</string>
+	<string id="41956">Skjul "genre" beskrivelse</string>
+	<!-- iPhoto view left-side menu -->
+	<string id="41957">Miniaturer</string>
+	<!-- iTunes view left-side menu -->
+	<string id="41958">Brug moderne baggrunds stil</string>
+	<!-- END OF RETROPLEX SPECIFIC STRINGS -->
+	<string id="31000"/>
+	<string id="31001">Plakater</string>
+	<string id="31002">Galleri</string>
+	<string id="31004">Show</string>
+	<string id="31006">Tilbehør</string>
+	<string id="31007">Programs indstillinger</string>
+	<string id="31008">Web</string>
+	<string id="31009">Miniat.</string>
+	<string id="31010">Billeder</string>
+	<string id="31011">Apple Film Trailers</string>
+	<string id="31012">Video Spilleliste</string>
+	<string id="31013">Afslut</string>
+	<string id="31014">Miniaturer</string>
+	<string id="31016">Fankunst</string>
+	<string id="31017">Administrer profiler</string>
+	<string id="31018">Tilpasset</string>
+	<string id="31019">Miniat.</string>
+	<string id="31020">Baggrunde</string>
+	<string id="31021">Profiler</string>
+	<string id="31022">Visningstyper</string>
+	<string id="31023">TV Shows</string>
+	<string id="31024">Musik Videoer</string>
+	<string id="31025">Vis Media overlejringer</string>
+	<string id="31026">Brug Login Skærm</string>
+	<string id="31027">Vis Partymode</string>
+	<string id="31028">Vis spillende videoer i baggrunden</string>
+	<string id="31029">Vis Visualisering i baggrunden</string>
+	<string id="31030">Vis Kunstnere</string>
+	<string id="31031">Vis Genre</string>
+	<string id="31032">Vis Spilleliste</string>
+	<string id="31033">Udseende indstillinger</string>
+	<string id="31034">Vis nyligt tilføjede og spillede album</string>
+	<string id="31036">Vurdering</string>
+	<string id="31037">Fremhæv første bogstav mens der scrolles</string>
+	<string id="31038">Vis nylight tilføjede og spillede videoer</string>
+	<string id="31039">Brug Fankunst</string>
+	<string id="31040">PAUSET</string>
+	<string id="31041">FWD 2X</string>
+	<string id="31042">FWD 4X</string>
+	<string id="31043">FWD 8X</string>
+	<string id="31044">FWD 16X</string>
+	<string id="31045">FWD 32X</string>
+	<string id="31046">RWD 2X</string>
+	<string id="31047">RWD 4X</string>
+	<string id="31048">RWD 8X</string>
+	<string id="31049">RWD 16X</string>
+	<string id="31050">RWD 32X</string>
+	<string id="31051">SPILLER</string>
+	<string id="31052">Trailere</string>
+	<string id="31053">Se Trailer</string>
+	<string id="31054">Plakat</string>
+	<string id="31057">Brug fuld skærms galleri visningstype</string>
+	<string id="31058">Fuld skærm</string>
+	<string id="31059">Tilbage</string>
+	<string id="31060">Vælg Scraper</string>
+	<string id="31061">Brug plakater</string>
+	<string id="31062">Vis Fuldskærms</string>
+	<string id="31063">Vis Stribe</string>
+	<string id="31064">Høj</string>
+	<string id="31065">Lav</string>
+	<string id="31066">Aktiver Banner visningstype for TV Shows</string>
+	<string id="31067">[LOWERCASE]$INFO[ListItem.VideoResolution]p[/LOWERCASE][UPPERCASE] $INFO[ListItem.VideoCodec][/UPPERCASE][LOWERCASE] - $INFO[ListItem.AudioChannels] $LOCALIZE[31055][/LOWERCASE][UPPERCASE] $INFO[ListItem.AudioCodec][/UPPERCASE]</string>
+	<string id="31068">Sluttid: $INFO[Player.FinishTime]</string>
+	<string id="31069">Video indstillinger</string>
+	<string id="31070">Generelt</string>
+	<string id="31071">Baggrund</string>
+	<string id="31072">$INFO[ListItem.episode] $LOCALIZE[20360] ($INFO[ListItem.Property(UnWatchedEpisodes)] $LOCALIZE[16101])</string>
+	<string id="31073">$INFO[ListItem.Property(UnWatchedEpisodes),, $LOCALIZE[16101] $LOCALIZE[20360]]</string>
+	<string id="31074">$INFO[ListItem.Season,$LOCALIZE[20373] , -] $INFO[ListItem.Episode,$LOCALIZE[20359] ]</string>
+	<string id="31075">$INFO[ListItem.Premiered ,$LOCALIZE[31089]: ]</string>
+	<string id="31076">[COLOR=Color3]$LOCALIZE[209] : $INFO[MusicPlayer.offset(1).Artist,, - ]$INFO[MusicPlayer.offset(1).Title][/COLOR]</string>
+	<string id="31077">[COLOR=Color3]$INFO[MusicPlayer.Playlistposition,$LOCALIZE[554]: ]$INFO[MusicPlayer.Playlistlength, / ][/COLOR]</string>
+	<string id="31078">$INFO[Player.Time]$INFO[Player.Duration, / ]</string>
+	<string id="31079">$INFO[ListItem.episode] total ($INFO[ListItem.Property(UnWatchedEpisodes)] $LOCALIZE[16101])</string>
+	<string id="31080">[UPPERCASE]$INFO[ListItem.episode] $LOCALIZE[20360][/UPPERCASE]</string>
+	<string id="31081">$INFO[ListItem.Property(UnWatchedEpisodes)] $LOCALIZE[16101]</string>
+	<string id="31082">$LOCALIZE[31106] $INFO[MusicPlayer.Artist]</string>
+	<string id="31083">From The Album $INFO[MusicPlayer.Album]</string>
+	<string id="31084">[UPPERCASE][COLOR=Color3]Playing[/COLOR] $INFO[VideoPlayer.Title] [COLOR=Color3]from[/COLOR] $INFO[VideoPlayer.TVShowTitle][/UPPERCASE]</string>
+	<string id="31085">$INFO[ListItem.Season ,$LOCALIZE[20373] ] - $INFO[ListItem.Episode ,$LOCALIZE[20359] ]</string>
+	<string id="31086">Filer</string>
+	<string id="31087">sæsson</string>
+	<string id="31088">afsnit</string>
+	<string id="31089">Total</string>
+	<string id="31090">*</string>
+	<string id="31091">*</string>
+	<string id="31092">Sæssoner</string>
+	<string id="31094">Nye afsnit</string>
+	<string id="31095">Nye film</string>
+	<string id="31096">$INFO[VideoPlayer.TVShowTitle,,: ]$INFO[VideoPlayer.Season,$LOCALIZE[20373] , -] $INFO[VideoPlayer.Episode,$LOCALIZE[20359] ]</string>
+	<string id="31098">vurderet</string>
+	<string id="31099">Aktiver Global Fankunst Baggrund</string>
+	<string id="31100">Min</string>
+	<string id="31101">Temperatur</string>
+	<string id="31102">Bogmærke</string>
+	<string id="31103">Ingen vurdering tilgængelig</string>
+	<string id="31104">Vis detaljer</string>
+	<string id="31105">Ingen detaljer</string>
+	<string id="31106">Af</string>
+	<string id="31107">Samkopier ikke</string>
+	<string id="31108">Af</string>
+	<string id="31109">Senere</string>
+	<string id="31110">$INFO[ListItem.TVShowTitle,,: ]$INFO[ListItem.Season,$LOCALIZE[20373] , -] $INFO[ListItem.Episode,$LOCALIZE[20359] ]</string>
+	<string id="31111">Spilleliste valg</string>
+	<string id="31112">Vis Plot I Listevisning For afsnit</string>
+	<string id="31113">Bland: fra</string>
+	<string id="31114">Bland: til</string>
+	<string id="31115">Vis Dato</string>
+	<!--settings.xml-->
+	<string id="31120">Afspilning</string>
+	<string id="31121">Depoter</string>
+	<string id="31122">Plugin</string>
+	<string id="31123">Udgang</string>
+	<string id="31125">Åbn indstillings skærm i stedet for indstillings menu</string>
+	<string id="31126">Version</string>
+	<string id="31127">Medvirkende</string>
+	<string id="31127">Min</string>
+	<string id="31900">Vis Alle</string>
+	<string id="31901">Fil Mode</string>
+	<string id="31902">Netværks indstillinger</string>
+	<string id="31903">Vejr indstillinger</string>
+	<string id="31904">System settings</string>
+	<string id="31905">[COLOR=Color2]$LOCALIZE[0][/COLOR] Plugins</string>
+	<string id="31906">[COLOR=Color2]$LOCALIZE[1][/COLOR] Plugins</string>
+	<string id="31907">Skjul tid</string>
+	<string id="31908">Baggrunde</string>
+	<string id="31910">Luk systemet ned</string>
+	<string id="31911">om 30 min.</string>
+	<string id="31912">om 60 min.</string>
+	<string id="31913">om 120 min.</string>
+	<string id="31914">Plugins</string>
+	<string id="31915">Fankunst</string>
+	<string id="31916">Tilpasset Timer</string>
+	<string id="31917"/>
+	<string id="31920">Vis usete indikatorer i fil mode</string>
+	<string id="31921">Vis usete indikatorer for TV shows</string>
+	<string id="31922">Vis usete indikatorer for Film</string>
+	<string id="31923">Vis usete indikatorer for TV Show sæssonner</string>
+	<string id="31924">Vis usete indikatorer for afsnit</string>
+	<string id="31925">[COLOR=Color2]Nyt[/COLOR] Afsnit</string>
+	<string id="31926">[COLOR=Color2]Ny[/COLOR] Film</string>
+	<string id="31927">Aktiver Timer valg i luk ned Menu</string>
+	<string id="31928">[COLOR=Color2]$LOCALIZE[157][/COLOR] Plugins</string>
+	<string id="31929">Bland Global Fankunst overlejring</string>
+	<string id="31930">Vælg Visningstype</string>
+	<string id="31931">[COLOR=Color2]Nye[/COLOR] Musik Videoer</string>
+	<string id="31932">[COLOR=Color2]Nye[/COLOR] Albums</string>
+	<string id="31933">Vis Fankunst i Liste visning</string>
+	<string id="31934">Vis Plakat</string>
+	<string id="31935">Vis Fankunstt</string>
+	<string id="31936">Brug Fankunst DIAS-show</string>
+	<string id="31937">Vælg tilpasset DIAS-Show</string>
+	<string id="31938">Vis genindlæs Skin</string>
+	<string id="31940">Vis udvidelses Labels In Menuerne</string>
+	<string id="31941">[COLOR=Color2]Nyligt[/COLOR] afspillet</string>
+	<string id="31942">[COLOR=Color2]$LOCALIZE[2][/COLOR] Plugins</string>
+	<string id="31943">Shows</string>
+	<string id="31944">Poster</string>
+	<string id="31945">Videoer</string>
+	<string id="31946">Sange</string>
+	<string id="31947">Show spiller nu</string>
+	<string id="31948">Information</string>
+	<string id="31949">Godaften</string>
+	<string id="31950">Godmorgen</string>
+	<string id="31951">Godeftermiddag</string>
+	<string id="31952">Sluk</string>
+	<string id="31953">Vis Trailere</string>
+	<string id="31954">Hjemmemenu valg</string>
+	<string id="31955">Vis tilbehør</string>
+	<string id="31956">Vis Programmer i hovedmenu</string>
+	<string id="31957">Vis vejr i hovedmenu</string>
+	<string id="31958">Vis afslut valg</string>
+	<string id="31959">Vi farvoritter i hovedmenu</string>
+	<string id="31960">Vis Scripts I hovedmenu</string>
+	<string id="31962">Video Menu</string>
+	<string id="31963">Musik Menu</string>
+	<string id="31966">Brug vejr fankunst</string>
+	<string id="31967">Sæt vejr fankunst sti</string>
+	<string id="31968">System [COLOR=Color2]Information[/COLOR]</string>
+	<string id="31969">Fil [COLOR=Color2]Manager[/COLOR]</string>
+	<string id="31970">Nye Albums</string>
+	<string id="31971">Nyligt afspillet</string>
+	<string id="31972">Godnat</string>
+	<string id="31973">Tilpasset spilleliste genveje</string>
+	<string id="31974">Stort gitter</string>
+	<string id="31975">Lille Gitter</string>
+	<!--plex-->
+	<string id="31976">Plex Online</string>
+	<string id="31977">Deaktiver RSS Feed</string>
+	<string id="31978"/>
+	<string id="31979">exif</string>
+	<string id="31980">Updater Plex</string>
+	<string id="31981">Plex automatieke opdateringer</string>
+	<string id="31982">Video</string>
+	<string id="31983">Lyd</string>
+	<string id="31984">Media Server</string>
+	<string id="31985">energibespar</string>
+	<string id="31986">Fankunst</string>
+	<string id="31987">Brug tidsafhængigt DIAS-Show</string>
+	<string id="3300">Lydløs</string>
+	<string id="33006">Idag</string>
+	<string id="33020">Betingelse</string>
+</strings>
